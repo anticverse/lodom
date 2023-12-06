@@ -236,9 +236,9 @@ body, html {
   }
 
   .landing-text-404 {
-    position: fixed;
-    bottom: -50px;
-    left: 20px;
-    /* İstediğiniz boşluk değerlerini verin */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 }

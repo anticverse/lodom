@@ -195,7 +195,7 @@ body, html {
             animation: focus-in-expand 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
   }
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 900px) {
     .custom-button {
     min-width: 5px; /* Butonun minimum genişliği */
     height: 30px;

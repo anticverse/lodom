@@ -11,8 +11,8 @@ Lodom Creations kurumsal web sitesinin geliştirildiği repository'e hoş geldin
 
 | Dal    | URL                                         |
 |--------|---------------------------------------------|
-| `main` | https://www.lodomcreations.com              |
-| `dev`  | https://anticversecom-dev.web.app/          |
+| `main` | https://anticverse.github.io/lodom/         |
+| `dev`  | https://anticverse.github.io/lodom/         |
 
 ### Geliştirici
 
